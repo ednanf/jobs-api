@@ -1,4 +1,4 @@
-# MERN Task Manager
+# jobs-api
 
 ## About Me
 

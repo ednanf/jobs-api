@@ -1,4 +1,3 @@
-require('@dotenvx/dotenvx').config();
 require('express-async-errors');
 
 const helmet = require('helmet');

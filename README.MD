@@ -19,12 +19,6 @@
 
 ## Main Technologies
 
-### Languages
-
-- JavaScript
-
-### Backend
-
 - NodeJS
 - Express
 - MongoDB

@@ -15,7 +15,7 @@
 
 ## API documentation
 
-[Access it here](https://bump.sh/ednandev/doc/jobs-api/)
+[Access it here](https://docs.scalar.com/editor#/reference/tag/v1)
 
 ## Main Technologies
 

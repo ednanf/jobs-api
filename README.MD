@@ -28,7 +28,7 @@
 ## Dependencies
 
 ```
-06-jobs-api
+jobs-api
 ├── @dotenvx/dotenvx
 ├── bcryptjs
 ├── cors

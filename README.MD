@@ -15,7 +15,7 @@
 
 ## API documentation
 
-[Access it here](https://docs.scalar.com/editor#/reference/tag/v1)
+[Access it here](https://jobs-api.apidocumentation.com/reference)
 
 ## Main Technologies
 
